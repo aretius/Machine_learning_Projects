@@ -26,3 +26,8 @@ Built a model to predict the value of a given house in the Boston real estate ma
  Train a Smartcab How to Drive
 
 Applied reinforcement learning to build a simulated vehicle navigation agent. This project involved modeling a complex control problem in terms of limited available inputs, and designing a scheme to automatically learn an optimal driving strategy based on rewards and penalties.
+
+#Project 6 :
+Digit Recognizer
+
+Applied Random Forest with variable number of estimators and analyed it's relation with the accuracy. Similaryly did another implementation using PCA and then K-N-N since it seemed like a good fit.
