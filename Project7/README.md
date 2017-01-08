@@ -9,3 +9,8 @@ So now the hour has come to put the data we’ve collected in your hands. We’v
 This is part of the kaggle competition:-
 Here is the link :-
 https://www.kaggle.com/c/ghouls-goblins-and-ghosts-boo
+
+Here are my following tries to reach to the top of the leaderboard:-
+1. First_try - LogisticRegresion+Data Cleaning+Gridsearch
+               Rank - 400 in the Leaderboard
+               Accuracy = 0.73724
