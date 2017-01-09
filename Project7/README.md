@@ -17,3 +17,15 @@ Here are my following tries to reach to the top of the leaderboard:-
                Rank - 400 in the Leaderboard
                
                Accuracy = 0.73724
+               
+2. Second_try - Random Forest+Data Cleaning+Gridsearch
+
+               Rank - 650 in the Leaderboard
+               
+               Accuracy = 0.64
+               
+3. Third_try - SVM +Data Cleaning+Gridsearch
+
+               Rank - 500 in the Leaderboard
+               
+               Accuracy = 0.73157
