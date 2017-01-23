@@ -31,3 +31,15 @@ Applied reinforcement learning to build a simulated vehicle navigation agent. Th
 Digit Recognizer
 
 Applied Random Forest with variable number of estimators and analyed it's relation with the accuracy. Similaryly did another implementation using PCA and then K-N-N since it seemed like a good fit.
+
+#Project 7 :
+Ghouls, Goblins, and Ghosts... Boo!
+
+Kaggle Competition
+Used PCA + LR + Hyperparameter Optimization + SVM each on its independent try.
+
+#Project 8 :
+Facial Keypoint Detection
+
+Kaggle Competition
+Applied CNN using librarires Lasagne & Theano and achieved 56th position on the leaderboard.
