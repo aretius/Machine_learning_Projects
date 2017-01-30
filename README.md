@@ -30,16 +30,20 @@ Applied reinforcement learning to build a simulated vehicle navigation agent. Th
 #Project 6 :
 Digit Recognizer
 
+Kaggle Competitions -https://www.kaggle.com/c/digit-recognizer
+Task: Detect the written digits using data of various digits with labels from 0 - 10.
 Applied Random Forest with variable number of estimators and analyed it's relation with the accuracy. Similaryly did another implementation using PCA and then K-N-N since it seemed like a good fit.
 
 #Project 7 :
 Ghouls, Goblins, and Ghosts... Boo!
 
-Kaggle Competition
+Kaggle Competition - https://www.kaggle.com/c/ghouls-goblins-and-ghosts-boo
+Task: to given features of creatures , classify them as Ghouls , Goblins & Ghosts.
 Used PCA + LR + Hyperparameter Optimization + SVM each on its independent try.
 
 #Project 8 :
 Facial Keypoint Detection
 
-Kaggle Competition
+Kaggle Competition - https://www.kaggle.com/c/facial-keypoints-detection
+Task: to detect the facial keypoints such as nose_tip , eye_center etc given images with around 15 labelled keypoints as data.
 Applied CNN using librarires Lasagne & Theano and achieved 56th position on the leaderboard.
