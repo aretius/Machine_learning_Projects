@@ -44,6 +44,6 @@ Used PCA + LR + Hyperparameter Optimization + SVM each on its independent try.
 #Project 8 :
 Facial Keypoint Detection
 
-Kaggle Competition - https://www.kaggle.com/c/facial-keypoints-detection
+Kaggle Competition - https://www.kaggle.com/c/facial-keypoints-detection<br>
 Task: to detect the facial keypoints such as nose_tip , eye_center etc given images with around 15 labelled keypoints as data.
 Applied CNN using librarires Lasagne & Theano and achieved 56th position on the leaderboard.
