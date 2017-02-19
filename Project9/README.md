@@ -8,10 +8,12 @@ Implementations :-
 
 1. PCA + GridSearch+ Normalization+ Imputer +KNN = 4000 rank
 
-2.Boosting +GridSearch+ Normalization+ Imputer + PCA = 2000 rank
+2. Boosting +GridSearch+ Normalization+ Imputer + PCA = 2000 rank
 
-3.LR model with L1 and L2 regularization with weights modified , no pca but other data preprocessing done :- 1000 rank
+3. LR model with L1 and L2 regularization with weights modified , no pca but other data preprocessing done :- 1000 rank
 
 4. Same as above but used PCA and log of data rather than the standard scaler : 900 rank
 
-5 Ensembling + XGBoost + Log of data + Imputer = 600 rank
+5. Ensembling + XGBoost + Log of data + Imputer = 600 rank
+
+6. Better Ensembling + XGBoost + Data Cleaning = 285 rank
