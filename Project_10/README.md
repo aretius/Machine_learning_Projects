@@ -1,6 +1,6 @@
-#Project 10 -- Kaggle
+#Project 10 of Kaggle
 
-#Two Sigma: Rental Listing
+#Two Sigma Connect: Rental Listing Inquiries
 
 https://www.kaggle.com/c/two-sigma-connect-rental-listing-inquiries
 
