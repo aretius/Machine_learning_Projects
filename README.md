@@ -51,11 +51,26 @@ Applied CNN using librarires Lasagne & Theano and achieved 56th position on the 
 #Project 9:
 House Prices: Advanced Regression Techniques
 
-Kaggle Competition - https://www.kaggle.com/c/house-prices-advanced-regression-techniques
+Kaggle Competition - https://www.kaggle.com/c/house-prices-advanced-regression-techniques<br>
 Task: With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, this competition challenges you to predict the final price of each home.
 
 #Project 10:
 Two Sigma Connect: Rental Listing Inquiries
 
-Kaggle Competition - https://www.kaggle.com/c/two-sigma-connect-rental-listing-inquiries
+Kaggle Competition - https://www.kaggle.com/c/two-sigma-connect-rental-listing-inquiries<br>
 Task: predict how popular an apartment rental listing is based on the listing content like text description, photos, number of bedrooms, price, etc. The data comes from renthop.com, an apartment listing website.
+
+#Project 11:
+March Machine Learning Mania 2017
+
+Kaggle Competition - https://www.kaggle.com/c/march-machine-learning-mania-2017
+Task:<br>
+Stage 1 - You should submit predicted probabilities for every possible matchup in the past 4 NCAA tournaments (2013-2016).<br>
+Stage 2 - You should submit predicted probabilities for every possible matchup before the 2017 tournament begins.
+
+#Project 12:
+Two Sigma Financial Modeling Challenge
+
+Kaggle Competition - https://www.kaggle.com/c/two-sigma-financial-modeling
+Task:
+This dataset contains anonymized features pertaining to a time-varying value for a financial instrument. Each instrument has an id. Time is represented by the 'timestamp' feature and the variable to predict is 'y'.
