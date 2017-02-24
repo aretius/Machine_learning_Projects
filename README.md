@@ -47,3 +47,15 @@ Facial Keypoint Detection
 Kaggle Competition - https://www.kaggle.com/c/facial-keypoints-detection<br>
 Task: to detect the facial keypoints such as nose_tip , eye_center etc given images with around 15 labelled keypoints as data.<br>
 Applied CNN using librarires Lasagne & Theano and achieved 56th position on the leaderboard.
+
+#Project 9:
+House Prices: Advanced Regression Techniques
+
+Kaggle Competition - https://www.kaggle.com/c/house-prices-advanced-regression-techniques
+Task: With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, this competition challenges you to predict the final price of each home.
+
+#Project 10:
+Two Sigma Connect: Rental Listing Inquiries
+
+Kaggle Competition - https://www.kaggle.com/c/two-sigma-connect-rental-listing-inquiries
+Task: predict how popular an apartment rental listing is based on the listing content like text description, photos, number of bedrooms, price, etc. The data comes from renthop.com, an apartment listing website.
