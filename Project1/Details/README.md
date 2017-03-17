@@ -1,4 +1,4 @@
-#PROJECT DETAILS
+# PROJECT DETAILS
 
 Titanic_data.csv --
 contains the complete data of passengers travelling the titanic ship.This file contains all the features of the given passengers which will be used to further identify the labels.
