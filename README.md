@@ -41,26 +41,26 @@ Kaggle Competition - https://www.kaggle.com/c/ghouls-goblins-and-ghosts-boo<br>
 Task: to given features of creatures , classify them as Ghouls , Goblins & Ghosts.<br>
 Used PCA + LR + Hyperparameter Optimization + SVM each on its independent try.
 
-#Project 8 :
+# Project 8 :
 Facial Keypoint Detection
 
 Kaggle Competition - https://www.kaggle.com/c/facial-keypoints-detection<br>
 Task: to detect the facial keypoints such as nose_tip , eye_center etc given images with around 15 labelled keypoints as data.<br>
 Applied CNN using librarires Lasagne & Theano and achieved 56th position on the leaderboard.
 
-#Project 9:
+# Project 9:
 House Prices: Advanced Regression Techniques
 
 Kaggle Competition - https://www.kaggle.com/c/house-prices-advanced-regression-techniques<br>
 Task: With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, this competition challenges you to predict the final price of each home.
 
-#Project 10:
+# Project 10:
 Two Sigma Connect: Rental Listing Inquiries
 
 Kaggle Competition - https://www.kaggle.com/c/two-sigma-connect-rental-listing-inquiries<br>
 Task: predict how popular an apartment rental listing is based on the listing content like text description, photos, number of bedrooms, price, etc. The data comes from renthop.com, an apartment listing website.
 
-#Project 11:
+# Project 11:
 March Machine Learning Mania 2017
 
 Kaggle Competition - https://www.kaggle.com/c/march-machine-learning-mania-2017<br>
@@ -68,7 +68,7 @@ Task:
 Stage 1 - You should submit predicted probabilities for every possible matchup in the past 4 NCAA tournaments (2013-2016).<br>
 Stage 2 - You should submit predicted probabilities for every possible matchup before the 2017 tournament begins.
 
-#Project 12:
+# Project 12:
 Two Sigma Financial Modeling Challenge
 
 Kaggle Competition - https://www.kaggle.com/c/two-sigma-financial-modeling<br>
