@@ -27,14 +27,14 @@ Reviewed unstructured data to understand the patterns and natural categories tha
 
 Applied reinforcement learning to build a simulated vehicle navigation agent. <br>This project involved modeling a complex control problem in terms of limited available inputs, and designing a scheme to automatically learn an optimal driving strategy based on rewards and penalties.
 
-#Project 6 :
+# Project 6 :
 Digit Recognizer
 
 Kaggle Competitions -https://www.kaggle.com/c/digit-recognizer<br>
 Task: Detect the written digits using data of various digits with labels from 0 - 10.<br>
 Applied Random Forest with variable number of estimators and analyed it's relation with the accuracy. Similaryly did another implementation using PCA and then K-N-N since it seemed like a good fit.
 
-#Project 7 :
+# Project 7 :
 Ghouls, Goblins, and Ghosts... Boo!
 
 Kaggle Competition - https://www.kaggle.com/c/ghouls-goblins-and-ghosts-boo<br>
