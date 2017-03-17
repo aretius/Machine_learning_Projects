@@ -1,5 +1,7 @@
-There will be two folders here namely Details and Implementaion.
+# Project 3
 
-Details will be containing the project's aim.
+Details regarding subsequent folders --
 
-Implementation will be my procedure of completing the project.
+1. Details will be containing the project's aim.
+
+2. Implementation will be my procedure of completing the project.
