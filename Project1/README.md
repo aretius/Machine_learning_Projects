@@ -1,5 +1,6 @@
-#PROJECT 1
-There will be two folders here namely Details and Implementaion.
+# Project 1
+
+Details regarding the subsequent folders.
 
 Details will be containing the project's aim.
 
