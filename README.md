@@ -89,6 +89,6 @@ In this challenge, you will help this bank by predicting the probability that a 
 
 # Project 14
 
-Indeed Machine Learning Codesprint hosted by Hackerrank
-Link : - https://www.hackerrank.com/indeed-ml-codesprint-2017
+Indeed Machine Learning Codesprint hosted by Hackerrank<br>
+Link : - https://www.hackerrank.com/indeed-ml-codesprint-2017<br>
 Task: - Predicting Job tags with complete descriptions of jobs given.
