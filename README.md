@@ -77,7 +77,8 @@ Two Sigma Financial Modeling Challenge
 
 • Kaggle Competition - https://www.kaggle.com/c/two-sigma-financial-modeling<br>
 Task:
-• This dataset contains anonymized features pertaining to a time-varying value for a financial instrument.<br>• Each instrument has an id. Time is represented by the 'timestamp' feature and the variable to predict is 'y'.
+• This dataset contains anonymized features pertaining to a time-varying value for a financial instrument.<br>• Each instrument has an id. Time is represented by the 'timestamp' feature and the variable to predict is 'y'.<br>
+• Used : - Selected best columns based upon Tree Algorithms, Removed Outliers  by successive quantization on residuals and finally used Logistic Regression & Extra trees classifier
 
 # Project 13
 
