@@ -11,4 +11,4 @@ Implementations :-
 
 1. Random Forest + Data Cleaning + Feature Engineering = 162 rank
 
-2. XGBoost + better Feature Engineering = 82 rank<br>** Will update it later ** 
+2. XGBoost + better Feature Engineering = 82 rank<br>
