@@ -55,7 +55,7 @@ House Prices: Advanced Regression Techniques
 
 • Kaggle Competition - https://www.kaggle.com/c/house-prices-advanced-regression-techniques<br>
 • Task: With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, this competition challenges you to predict the final price of each home.
-• Used : Ensembling of models, XGboost, Data cleaning for <b>285 rank<b> ( Other implementations are in the directory's README)
+• Used : Ensembling of models, XGboost, Data cleaning for <b>285 rank</b> ( Other implementations are in the directory's README)
 
 # Project 10:
 Two Sigma Connect: Rental Listing Inquiries
