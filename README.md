@@ -61,14 +61,14 @@ House Prices: Advanced Regression Techniques
 Two Sigma Connect: Rental Listing Inquiries
 
 • Kaggle Competition - https://www.kaggle.com/c/two-sigma-connect-rental-listing-inquiries<br>
-• Task: predict how popular an apartment rental listing is based on the listing content like text description, photos, number of bedrooms, price, etc. The data comes from renthop.com, an apartment listing website.
+• Task: predict how popular an apartment rental listing is based on the listing content like text description, photos, number of bedrooms, price, etc. The data comes from renthop.com, an apartment listing website.<br>
 • Used : - Xgboost, Hyper parameter optimization & Feature engineering ( since lots of data was text based , details in the notebook)
 
 # Project 11:
 March Machine Learning Mania 2017
 
 • Kaggle Competition - https://www.kaggle.com/c/march-machine-learning-mania-2017<br>
-Task:
+Task:<br>
 • Stage 1 - You should submit predicted probabilities for every possible matchup in the past 4 NCAA tournaments (2013-2016).<br>
 • Stage 2 - You should submit predicted probabilities for every possible matchup before the 2017 tournament begins.
 
