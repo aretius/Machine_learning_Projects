@@ -55,12 +55,14 @@ House Prices: Advanced Regression Techniques
 
 • Kaggle Competition - https://www.kaggle.com/c/house-prices-advanced-regression-techniques<br>
 • Task: With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, this competition challenges you to predict the final price of each home.
+• Used : Ensembling of models, XGboost, Data cleaning for <b>285 rank<b> ( Other implementations are in the directory's README)
 
 # Project 10:
 Two Sigma Connect: Rental Listing Inquiries
 
 • Kaggle Competition - https://www.kaggle.com/c/two-sigma-connect-rental-listing-inquiries<br>
 • Task: predict how popular an apartment rental listing is based on the listing content like text description, photos, number of bedrooms, price, etc. The data comes from renthop.com, an apartment listing website.
+• Used : - Xgboost, Hyper parameter optimization & Feature engineering ( since lots of data was text based , details in the notebook)
 
 # Project 11:
 March Machine Learning Mania 2017
@@ -81,11 +83,8 @@ Task:
 
 • This Project is one of the Machine Learning Competitions on Hackerearth.<br>
 • Link : https://www.hackerearth.com/challenge/competitive/machine-learning-challenge-one/ <br>
-• The Bank Indessa has not done well in last 3 quarters. Their NPAs (Non Performing Assets) have reached all time high. It is starting to lose confidence of its investors. As a result, it’s stock has fallen by 20% in the previous quarter alone.
-
-• After careful analysis, it was found that the majority of NPA was contributed by loan defaulters. With the messy data collected over all the years, this bank has decided to use machine learning to figure out a way to find these defaulters and devise a plan to reduce them.
-
-• In this challenge, you will help this bank by predicting the probability that a member will default.
+• Predict : - The probability that a member will default of bank Indessa.<br>
+• Used : - Ensembling of LR ( With L1 Regularization ) and RF (300 estim) model with only selected features and simple Feature Engineering
 
 # Project 14
 
