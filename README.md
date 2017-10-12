@@ -92,3 +92,11 @@ Task:
 Indeed Machine Learning Codesprint hosted by Hackerrank<br>
 • Link : - https://www.hackerrank.com/indeed-ml-codesprint-2017<br>
 • Task: - Predicting Job tags with complete descriptions of jobs given.
+
+# Project 15
+
+Sberbank Russian Housing Market<br>
+
+• Kaggle Competition : - https://www.kaggle.com/c/sberbank-russian-housing-market<br>
+• Task : - Identify the Realty price fluctuations in Russia's volatile economy<br>
+• Used : - Used Xgboost Model with hyper parameter optimization
